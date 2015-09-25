@@ -18,7 +18,7 @@ let SignUpTest() =
     username << "danny@mailinator.com"
     pss << "training"
     daypicker << "15"
-    monthpicker << "12"
+    monthpicker << "Dic"
     yearpicker << "1992"
     click gender
     click btnRegister
